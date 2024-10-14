@@ -49,8 +49,8 @@ This project demonstrates:
 
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/fibonacci_merge_sort.git
-   cd fibonacci_merge_sort
+   git clone https://github.com/jambalong/fibonacci-and-merge-sort.git
+   cd fibonacci-and-merge-sort
    ```
 
 3. Run the programs:
